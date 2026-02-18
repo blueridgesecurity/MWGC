@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimum-scale=1.0">
+    <title>Michael Walker General Contracting | Tri-Cities TN & VA</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="images/favicon/site.webmanifest">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <meta name="description" content="MWGC helps Tri-Cities homeowners manage remodels, kitchens, bathrooms, additions, and larger renovations with in-house licensed electrical and plumbing.">
+    
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Michael Walker General Contracting | Tri-Cities TN & VA">
+    <meta property="og:description" content="MWGC provides trustworthy, high-quality help with renovations, repairs, custom homes, and home improvements in the Tri-Cities area.">
+    <meta property="og:image" content="https://michaelwalkergc.com/images/logos/banner.png">
+    <meta property="og:url" content="https://michaelwalkergc.com/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://michaelwalkergc.com/images/logos/banner.png">
+</head>
+<body>
+
+    <!-- Top Bar -->
+    <div class="top-bar">
+        <div class="container">
+            <div class="contact-info">
+                <a href="tel:+14232252355"><i class="fas fa-phone-alt"></i> (423) 225-2355</a>
+                <a href="mailto:info@MichaelWalkerGC.com"><i class="fas fa-envelope"></i> info@MichaelWalkerGC.com</a>
+            </div>
+            <div class="licenses">
+                <span><i class="fas fa-certificate"></i> GC #77208</span>
+                <span><i class="fas fa-bolt"></i> Elec #63373</span>
+                <span><i class="fas fa-wrench"></i> Plumb #4900</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header & Nav -->
+    <header>
+        <div class="container header-container">
+            <div class="logo">
+                <a href="index.html"><img src="images/logos/MWGC_Master_Logo.jpg" alt="Michael Walker General Contracting Logo"></a>
+            </div>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="financing.html">Financing</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="https://www.homesinthetricities.com/" class="real-estate-link" target="_blank" rel="noopener noreferrer">Real Estate</a></li>
+                    <li><a href="contact.html" class="btn-primary">Get a Quote</a></li>
+                </ul>
+                <div class="hamburger">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content animate-on-scroll">
+            <h1>One Call.<br>One Team.<br>One Project Manager.</h1>
+            <p>Stop coordinating multiple contractors. MWGC handles your remodel from start to finish—with licensed general contracting, electrical, and plumbing all managed in-house.</p>
+            <div class="hero-buttons">
+                <a href="contact.html" class="btn-primary">Get Your Free Consultation</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Introduction Section -->
+    <section class="section-padding">
+        <div class="container">
+            <div class="about-grid">
+                <div class="animate-on-scroll">
+                    <h5 style="color: var(--accent-color); text-transform: uppercase; font-weight: 700; letter-spacing: 1px; margin-bottom: 10px;">For Homeowners</h5>
+                    <h2 style="font-size: 2.5rem; margin-bottom: 20px; line-height: 1.2;">Renovation Help You Can
+                        <br>Plan Around</h2>
+                    <p style="margin-bottom: 20px; color: #555;">Most of our work is improving existing homes—remodels, kitchens, bathrooms, additions, decks, and larger renovation projects.</p>
+                    <p style="margin-bottom: 30px; color: #555;">We also take on custom homes and small multi-family projects when the fit is right, but our focus is helping homeowners get reliable results without the stress of coordinating a project alone.</p>
+                    <a href="about.html" class="btn-primary">Meet The Team</a>
+                </div>
+                <!-- Image Collage or Single Strong Image -->
+                <div class="animate-on-scroll" style="position: relative;">
+                    <img src="images/kitchenremodel.jpg" alt="Luxury Kitchen Renovation" style="width: 100%; border-radius: 4px; box-shadow: var(--shadow-strong);">
+                    <!-- Floating Badge -->
+                    <div style="position: absolute; bottom: -20px; right: -20px; background: var(--accent-color); color: white; padding: 20px; border-radius: 4px; max-width: 200px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+                        <p style="font-weight: 700; margin: 0; font-size: 1.05rem;">Licensed In-House</p>
+                        <p style="font-size: 0.9rem; margin: 0; opacity: 0.9; line-height: 1.4;">General Contractor<br>Electrician<br>Plumber</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Differentiation Through Licensing (Plain & Professional) -->
+    <section class="section-padding" style="background: var(--light-bg); padding: 70px 0;">
+        <div class="container animate-on-scroll">
+            <div class="section-header" style="text-align: left; margin-bottom: 25px;">
+                <h2 style="margin-bottom: 10px;">Licensed Trades, Managed In-House</h2>
+                <p style="color: #666; max-width: 900px; margin-bottom: 0;">MWGC operates as a Licensed General Contractor, Licensed Electrician, and Licensed Plumber. Our team handles the work in-house so homeowners don’t have to coordinate multiple trades.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- “We Understand Homes” Positioning (2–3 sentences) -->
+    <section class="section-padding" style="padding: 70px 0;">
+        <div class="container animate-on-scroll">
+            <h2 style="margin-bottom: 10px;">We Understand Homes</h2>
+            <p style="color: #555; max-width: 900px; margin-bottom: 0;">MWGC grew out of real client needs tied to renovation, restoration, real estate, and long-term home ownership. We approach your home as a complete system—not a list of disconnected tasks.</p>
+        </div>
+    </section>
+
+    <!-- Services Overview (Clean Professional) -->
+    <section class="section-padding" style="padding: 100px 0; background: #fafafa;">
+        <div class="container animate-on-scroll">
+            <div class="section-header" style="text-align: center; margin-bottom: 60px;">
+                <h2 style="color: var(--primary-color);">Services for Homeowners</h2>
+                <div style="width: 80px; height: 4px; background: var(--accent-color); margin: 20px auto;"></div>
+                <p style="color: #666; max-width: 700px; margin: 0 auto;">Clear scope, clear schedule, and a single point of contact for your renovation or new build project.</p>
+            </div>
+            
+            <div class="services-grid" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
+                <!-- Card 1 -->
+                <div class="service-card-new" style="background: white; padding: 40px; border-radius: 4px; box-shadow: 0 5px 20px rgba(0,0,0,0.08); border-bottom: 4px solid var(--accent-color); transition: transform 0.3s;">
+                    <i class="fas fa-tools" style="color: var(--accent-color); font-size: 2.5rem; margin-bottom: 20px;"></i>
+                    <h3 style="color: var(--primary-color); margin-bottom: 15px;">Remodels & Additions</h3>
+                    <p style="color: #666; margin-bottom: 20px; line-height: 1.6;">Bathrooms, kitchens, additions, decks, and larger renovations—planned, managed, and built with attention to detail.</p>
+                    <a href="services.html" style="color: var(--primary-color); text-transform: uppercase; font-size: 0.8rem; font-weight: 700; text-decoration: none;">Learn More <i class="fas fa-arrow-right" style="color: var(--accent-color); margin-left: 5px;"></i></a>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="service-card-new" style="background: white; padding: 40px; border-radius: 4px; box-shadow: 0 5px 20px rgba(0,0,0,0.08); border-bottom: 4px solid var(--accent-color); transition: transform 0.3s;">
+                    <i class="fas fa-plug" style="color: var(--accent-color); font-size: 2.5rem; margin-bottom: 20px;"></i>
+                    <h3 style="color: var(--primary-color); margin-bottom: 15px;">Electrical & Plumbing</h3>
+                    <p style="color: #666; margin-bottom: 20px; line-height: 1.6;">Licensed electrical and plumbing work handled by our in-house team—upgrades, rough-ins, repairs, and code-compliant installations.</p>
+                    <a href="services.html" style="color: var(--primary-color); text-transform: uppercase; font-size: 0.8rem; font-weight: 700; text-decoration: none;">Learn More <i class="fas fa-arrow-right" style="color: var(--accent-color); margin-left: 5px;"></i></a>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="service-card-new" style="background: white; padding: 40px; border-radius: 4px; box-shadow: 0 5px 20px rgba(0,0,0,0.08); border-bottom: 4px solid var(--accent-color); transition: transform 0.3s;">
+                    <i class="fas fa-home" style="color: var(--accent-color); font-size: 2.5rem; margin-bottom: 20px;"></i>
+                    <h3 style="color: var(--primary-color); margin-bottom: 15px;">Custom Homes & Multi-Family</h3>
+                    <p style="color: #666; margin-bottom: 20px; line-height: 1.6;">We also build new custom homes and small multi-family projects—supported by the same planning and in-house trade capabilities.</p>
+                    <a href="services.html" style="color: var(--primary-color); text-transform: uppercase; font-size: 0.8rem; font-weight: 700; text-decoration: none;">Learn More <i class="fas fa-arrow-right" style="color: var(--accent-color); margin-left: 5px;"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Recent Work Stripes -->
+    <section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+        <!-- Item 1: Luxury Baths -->
+        <a href="gallery.html#luxury" class="work-item" style="position: relative; height: 400px; overflow: hidden; display: block; text-decoration: none;">
+            <img src="images/bathroom.jpg" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.6s ease;" alt="Luxury Bath">
+            <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; flex-direction: column; transition: background 0.3s;">
+                <h3 style="color: white; font-size: 1.8rem; text-shadow: 0 2px 4px rgba(0,0,0,0.8); text-transform: uppercase; letter-spacing: 2px;">Luxury Baths</h3>
+                <span style="color: white; opacity: 0; transform: translateY(20px); transition: all 0.3s ease; margin-top: 10px; font-weight: 600;">View Projects <i class="fas fa-arrow-right"></i></span>
+            </div>
+        </a>
+        
+        <!-- Item 2: Exteriors -->
+        <a href="gallery.html#exteriors" class="work-item" style="position: relative; height: 400px; overflow: hidden; display: block; text-decoration: none;">
+            <img src="images/exterior (11).jpg" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.6s ease;" alt="Exterior Siding">
+             <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; flex-direction: column; transition: background 0.3s;">
+                <h3 style="color: white; font-size: 1.8rem; text-shadow: 0 2px 4px rgba(0,0,0,0.8); text-transform: uppercase; letter-spacing: 2px;">Exteriors</h3>
+                <span style="color: white; opacity: 0; transform: translateY(20px); transition: all 0.3s ease; margin-top: 10px; font-weight: 600;">View Projects <i class="fas fa-arrow-right"></i></span>
+            </div>
+        </a>
+        
+        <!-- Item 3: New Builds -->
+        <a href="gallery.html#transformations" class="work-item" style="position: relative; height: 400px; overflow: hidden; display: block; text-decoration: none;">
+            <img src="images/exterior-garage.jpg" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.6s ease;" alt="Garages">
+             <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; flex-direction: column; transition: background 0.3s;">
+                <h3 style="color: white; font-size: 1.8rem; text-shadow: 0 2px 4px rgba(0,0,0,0.8); text-transform: uppercase; letter-spacing: 2px;">New Builds</h3>
+                <span style="color: white; opacity: 0; transform: translateY(20px); transition: all 0.3s ease; margin-top: 10px; font-weight: 600;">View Projects <i class="fas fa-arrow-right"></i></span>
+            </div>
+        </a>
+        
+        <!-- Item 4: View Gallery CTA -->
+        <div class="work-item" style="position: relative; height: 400px; overflow: hidden;">
+             <a href="gallery.html" class="gallery-cta" style="display: flex; height: 100%; background: linear-gradient(135deg, var(--accent-color) 0%, #a00 100%); align-items: center; justify-content: center; text-decoration: none; color: white; flex-direction: column; transition: background 0.3s ease;">
+                <span style="font-size: 4rem; margin-bottom: 20px; transition: transform 0.3s ease;"><i class="fas fa-th"></i></span>
+                <h3 style="text-transform: uppercase; font-weight: 800; font-size: 1.5rem; letter-spacing: 3px;">View Full Gallery</h3>
+             </a>
+        </div>
+    </section>
+
+    <!-- Final CTA -->
+     <section class="section-padding" style="background: #f4f4f4; text-align: center;">
+        <div class="container animate-on-scroll">
+            <i class="fas fa-hard-hat" style="font-size: 3rem; color: #333; margin-bottom: 20px;"></i>
+            <h2 style="font-size: 2.5rem; margin-bottom: 10px;">Ready to create something exceptional?</h2>
+            <p style="max-width: 600px; margin: 0 auto 30px; color: #666;">Contact the team that puts quality and integrity first.</p>
+            <a href="contact.html" class="btn-primary">Request Your Consultation</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-container">
+                <div class="footer-col">
+                    <img src="images/logos/lgogo.png" alt="MWGC Logo" style="height: 120px; margin-bottom: 20px;">
+                    <p>Tri-Cities' trusted partner for renovation, construction, and home improvement.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact</h4>
+                    <p><i class="fas fa-map-marker-alt"></i> Tri-Cities, TN & VA</p>
+                    <p><i class="fas fa-phone"></i> (423) 225-2355</p>
+                    <p><i class="fas fa-envelope"></i> info@MichaelWalkerGC.com</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Quick Links</h4>
+                    <ul style="line-height: 2;">
+                        <li><a href="https://www.homesinthetricities.com/" target="_blank" rel="noopener noreferrer">Real Estate Division</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="gallery.html">Our Work</a></li>
+                        <li><a href="financing.html">Financing</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Licenses</h4>
+                    <p>General Contractor: #77208</p>
+                    <p>Electrical: #63373</p>
+                    <p>Plumbing: #4900</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Michael Walker General Contracting. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
